@@ -1,0 +1,6 @@
+./Homework1/src/ParallelPrefix.java
+./Homework1/src/ParallelPrefixInternal.java
+./Homework1/src/PrefixInterface.java
+./Homework1/src/Benchmark.java
+./Homework1/src/SequentialPrefix.java
+./Homework1/src/BetterParallelPrefix.java
